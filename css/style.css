@@ -8,7 +8,7 @@
 body {
     background-image: url('../img/noise.jpeg');
     background-size: cover;
-    
+    background-position: center;
 }
 
 main {
