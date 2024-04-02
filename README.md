@@ -13,11 +13,10 @@ Este projeto utiliza TensorFlow.js e Teachable Machine para criar um modelo de m
 - **Teachable Machine:** Ferramenta para treinamento de modelos de Machine Learning. 
 
 ## Desenvolvido Por
-Amanda e Maria Fernanda 
 
-Feito por [Amanda](https://github.com/amxanda) 💛!
+ [Amanda](https://github.com/amxanda) 💛!
 
-Feito por [Maria Fernanda](https://github.com/nandinhaaa) 💛!
+ [Maria Fernanda](https://github.com/nandinhaaa) 💛!
 
 
 ![alice-paisdasmaravilhas](https://user-images.githubusercontent.com/91507393/227745123-50487a6f-7843-4c5b-bf9c-79a60d9bfe96.gif)
