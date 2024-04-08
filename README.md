@@ -6,6 +6,20 @@ Este projeto utiliza TensorFlow.js e Teachable Machine para criar um modelo de m
 - Alteração dinâmica do fundo da página e exibição de um aviso visual específico ao detectar um dos sons.
 - Interface simples e responsiva para facilitar o uso em diferentes dispositivos.
 
+## Página 1 
+![image](https://github.com/amxanda/teachable-machine/assets/91753947/af1b3445-dd70-4045-a121-ae12421afa8c)
+
+## Bebe chorando 
+![image](https://github.com/amxanda/teachable-machine/assets/91753947/c0504d8c-5181-4c35-865f-fc979c4158ba)
+
+## Cachorro
+![image](https://github.com/amxanda/teachable-machine/assets/91753947/77732655-b425-41c5-944f-a98540c62f41)
+
+## Alarme 
+![image](https://github.com/amxanda/teachable-machine/assets/91753947/ec6cd7d4-d0f7-47ba-93f1-a4e81817ba5d)
+
+
+
 ## Tecnologias Utilizadas
 - **HTML/CSS:** Estrutura e estilo da página.
 - **JavaScript:** Lógica de reconhecimento de áudio utilizando TensorFlow.js e o modelo exportado da Teachable Machine.
